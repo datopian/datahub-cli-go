@@ -1,11 +1,11 @@
 package main
 
 import (
-	"github.com/datopian/datahub-cli/commands"
+	"github.com/datopian/datahub-cli/cmd"
 )
 
 
 func main() {
-	commands.Execute()
+	cmd.Execute()
 }
 
